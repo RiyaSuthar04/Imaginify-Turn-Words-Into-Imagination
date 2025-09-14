@@ -132,7 +132,7 @@ A big thanks to them for the amazing content and guidance!
 ## 🧑‍💻 Author
 
 👩‍💻 **Riya Suthar**
-📌 4rd Year IT Student | MERN Stack Developer | Passionate about AI & Web Development
+📌 4th Year IT Student | MERN Stack Developer | Passionate about AI & Web Development
 
 ---
 
