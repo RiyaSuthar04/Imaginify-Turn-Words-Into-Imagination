@@ -132,13 +132,10 @@ A big thanks to them for the amazing content and guidance!
 ## 🧑‍💻 Author
 
 👩‍💻 **Riya Suthar**
-📌 3rd Year IT Student | MERN Stack Developer | Passionate about AI & Web Development
+📌 4rd Year IT Student | MERN Stack Developer | Passionate about AI & Web Development
 
 ---
 
 ## ⭐ Support
 
 If you like this project, please give it a **star ⭐ on GitHub** — it really helps!
-
-```
-
