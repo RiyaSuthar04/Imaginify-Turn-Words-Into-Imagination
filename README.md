@@ -1,4 +1,4 @@
-```markdown
+
 # 🖼️ AI Text-to-Image Generator
 
 Turn your imagination into art! 🎨  
